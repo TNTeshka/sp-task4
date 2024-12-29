@@ -1,0 +1,5 @@
+﻿  test.cpp
+D:\KPI\SP\lab4\pavlyuk-test\stringProcessor.h(20,12): warning C4267: 'return': conversion from 'size_t' to 'const int32_t', possible loss of data
+  (compiling source file '/test.cpp')
+  
+  pavlyuk-test.vcxproj -> D:\KPI\SP\lab4\pavlyuk-test\x64\Debug\pavlyuk-test.exe

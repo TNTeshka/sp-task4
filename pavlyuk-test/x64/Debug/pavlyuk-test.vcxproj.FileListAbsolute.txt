@@ -1,0 +1,3 @@
+D:\KPI\SP\lab4\pavlyuk-test\x64\Debug\gtest.pdb
+D:\KPI\SP\lab4\pavlyuk-test\x64\Debug\gtest_main.pdb
+D:\KPI\SP\lab4\pavlyuk-test\pavlyuk-test\x64\Debug\pavlyuk-.3A57A234.Up2Date
